@@ -11,7 +11,7 @@ Maca artikel lan nonton tutorial bisa mbantu, nanging apa sing luwih apik tinimb
 
 #### _ Yen sampeyan ora kepenak karo baris perintah, [iki tutorial nggunakake GUI.] (# Tutorial-using-tools-other) _
 
-#### _Waca iki ing [basa liya] (terjemahan / Terjemahan.md) ._
+#### _Waca iki ing [basa liya] (translations/Translations.md) ._
 
 [🇮🇳](translations/Translations.md)
 [🇲🇲](translations/README.mm_unicode.md)
