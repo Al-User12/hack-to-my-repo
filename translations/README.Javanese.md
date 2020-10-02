@@ -4,10 +4,9 @@
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 # Kontribusi Pertama
+Angel. Sepisan angel banget nalika sampeyan nindakake perkara. Apamaneh nalika sampeyan kolaborasi, nggawe kesalahan ora kepenak. Kita pengin nyederhanakake kepiye para kontributor * open-source * anyar sinau lan menehi kontribusi kanggo pisanan.
 
-Sulit. Selalu sulit saat pertama kali Anda melakukan sesuatu. Terutama ketika Anda berkolaborasi, membuat kesalahan bukanlah hal yang nyaman. Kami ingin menyederhanakan cara kontributor *open-source* baru belajar dan berkontribusi untuk pertama kalinya.
-
-Membaca artikel dan menonton tutorial dapat membantu, tetapi apa yang lebih baik daripada langsung mempraktikan hal-hal tersebut? Proyek ini bertujuan untuk memberikan panduan dan menyederhanakan cara memberikan kontribusi pertama bagi pemula. Jika Anda ingin memberikan kontribusi untuk pertama kalinya, ikuti langkah-langkah di bawah ini.
+Maca artikel lan nonton tutorial bisa mbantu, nanging apa sing luwih apik tinimbang nggawe praktik? Proyek iki tujuane kanggo menehi pandhuan lan nyederhanakake kontribusi kaping pisanan kanggo para pamula. Yen sampeyan pengin menehi kontribusi kaping pisanan, mangga tindakake langkah-langkah ing ngisor iki.
 
 #### _Jika Anda tidak nyaman dengan baris perintah, [di sini ada tutorial menggunakan GUI.](#tutorial-menggunakan-alat-lain)_
 
