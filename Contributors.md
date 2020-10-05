@@ -1,4 +1,5 @@
 # Contributors
+- [Hasan Basri](github.com/verluchie)
 - [Gilang A] (https://github.com/pakualam)
 -[Al Fikri] (https://github.com/Al-User12)
 - [Faishal AR] (https://github.com/SantriInsyaf)
