@@ -4962,6 +4962,7 @@ chaitrali
 - [Pavan Kommisetty](https://github.com/Kazeno21)
 - [Leandro Quiroga](https://github.com/Hydefs)
 - [Chintan Shah](https://github.com/chintanms)
+- [Rizky Bagas]
 - [Pedro Alecrim](https://github.com/pedroalecrim)
 - [Mauricio Sako](https://github.com/mauriciosako)
 - [Muhammad Ulin Nuha](https://github.com/nuhaa/)
@@ -4993,4 +4994,4 @@ chaitrali
 - [Ramya Lingari] (https://github.com/RamyaLingari)
 - [Wawan Winarto] (https://github.com/abdiwawan)
 - [Muhaecal D. Khatami](https://github.com/mhaecal)
-- [Jeffry Gunawan](https://github.com/jeffrywu28)
+- [Jeffry Gunawan](https://github.com/jeffrywu28)i
