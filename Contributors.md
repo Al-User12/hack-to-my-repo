@@ -1,16 +1,16 @@
 # Contributors
--[Al Fikri](https://github.com/Al-User12)
--[Audie Mendaros](https://github.com/taroken6)
-- [Will Guo]
--[Tommy Deliso](https://github.com/tdeliso)
--[Mandeep Singh](https://github.com/deepsingh132)
--[WeLostTheNight](https://github.com/574469831)
--[Ashutosh Dixit](https://github.com/Di-ashX)
--[jaanP1]
--[Animish Pande](https://github.com/animishpande)
+
+- [Al Fikri](https://github.com/Al-User12)
+- [Audie Mendaros](https://github.com/taroken6)
+- [Tommy Deliso](https://github.com/tdeliso)
+- [Mandeep Singh](https://github.com/deepsingh132)
+- [WeLostTheNight](https://github.com/574469831)
+- [Ashutosh Dixit](https://github.com/Di-ashX)
+- [jaanP1]
+- [Animish Pande](https://github.com/animishpande)
 - [Crystal Wernicke] (https://github.com/CrystalWernicke)
 - [Rohan Poojary](https://github.com/RohanPoojary1107)
--[Ankita Singhal](https://github.com/sankita11)
+- [Ankita Singhal](https://github.com/sankita11)
 -[sai aka]
 -[Elizabeth Wiggins]
 - [Harsh Soni] (https://github.com/harsh-dynasty)
@@ -79,6 +79,7 @@
 - [Devansh Thapa](https://github.com/devansh1903)
 - [Ansh Mishra](https://github.com/theanshm)
 - [Gaurav Pandey](https://github.com/GauravPandey892)
+- [EVANTODAY]
 - [Ankit Kumar Singh](https://github.com/Ankitz007)
 - [Ryan Jin](https://github.com/R-Jin)
 - [Jerry George Jaimon](https://github.com/jerryjaimon/first-contributions)
@@ -4959,6 +4960,7 @@ chaitrali
 - [Pavan Kommisetty](https://github.com/Kazeno21)
 - [Leandro Quiroga](https://github.com/Hydefs)
 - [Chintan Shah](https://github.com/chintanms)
+- [Rizky Bagas]
 - [Pedro Alecrim](https://github.com/pedroalecrim)
 - [Mauricio Sako](https://github.com/mauriciosako)
 - [Muhammad Ulin Nuha](https://github.com/nuhaa/)
@@ -4988,3 +4990,6 @@ chaitrali
 - [Divyansh Tyagi](https://github.com/divyanshTyagi)
 - [Francesco Cermaria] (https://github.com/fracerma)
 - [Ramya Lingari] (https://github.com/RamyaLingari)
+- [Wawan Winarto] (https://github.com/abdiwawan)
+- [Muhaecal D. Khatami](https://github.com/mhaecal)
+- [Jeffry Gunawan](https://github.com/jeffrywu28)i

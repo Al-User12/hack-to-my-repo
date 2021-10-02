@@ -3,15 +3,15 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
-# Kontribusi Pertama
+# Kontribusi Kahiji
 
-Sulit. Selalu sulit saat pertama kali Anda melakukan sesuatu. Terutama ketika Anda berkolaborasi, membuat kesalahan bukanlah hal yang nyaman. Kami ingin menyederhanakan cara kontributor *open-source* yang baru belajar dan berkontribusi untuk pertama kalinya.
+Emang, nu ngaranna awal mah pasti hese. Komo deui geus jeung ngaranna kolaborasi, ngaranna salah, pasti nyieun ati teh teu bungah. Urang teh ayeuna rek nyederhanaan kumaha *open-source* teh keur anu anyar keneh ngangge ieu platform.
 
-Dengan membaca artikel dan menonton tutorial sebenarnya dapat membantu, tetapi apa yang lebih baik daripada langsung mempraktikan hal-hal tersebut? Proyek ini bertujuan untuk memberikan panduan dan menyederhanakan cara memberikan kontribusi pertama bagi pemula. Jika Anda ingin memberikan kontribusi untuk pertama kalinya, ikuti langkah-langkah di bawah ini.
+Ku maca jeung lalajo tutorial emangna tiasa ngabantu, cik tapi nu leuwih alus ti eta naon? Proyek ieu teh dijieun kanggo maraneh nu awal keneh nyieun kkontribusi. Mun arek, jug baca ieu tutorial jeung di laksanakeun.
 
-#### _Jika Anda tidak nyaman dengan baris perintah, [di sini ada tutorial menggunakan GUI.](#tutorial-menggunakan-alat-lain)_
+#### _Lamun teu beuki kana sistem command kieu, [aya tutorial nu ngangge GUI didieu](#tutorial-menggunakan-alat-lain)_
 
-#### _Baca ini dalam [bahasa lain](translations/Translations.md)._
+#### _Tutorial ieu teh tos diterjemahkeun kana [loba basa](translations/Translations.md)._
 
 [🇮🇳](translations/Translations.md)
 [🇲🇲](translations/README.mm_unicode.md)
@@ -65,110 +65,110 @@ Dengan membaca artikel dan menonton tutorial sebenarnya dapat membantu, tetapi a
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
-Apabila belum memiliki git, [ install segera ](https://help.github.com/articles/set-up-git/).
+Lamun can boga git, [ pasang heula ](https://help.github.com/articles/set-up-git/).
 
-## Fork Repositori Ini
+## Fork repository ieu
 
-Fork repositori ini dengan cara menekan tombol *fork* yang ada di bagian kanan atas layar.
-Hal tersebut akan membuat salinan repositori ini di akun github anda.
+Fork repository ieu, kumaha? Nyaeta pencet *fork* anu aya di kanan luhur layar.
+Ieu teh fungsina ngajieun repository ieu aya di repository didinya.
 
 ## Klon Repositori
 
 <img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
-Sekarang klon repositori ini ke komputer anda. Tekan tombol *clone* lalu tekan ikon "copy to clipboard".
+Ayeuna, kumaha cara ngajieun ieu repository tiasa aya di komputer didinya. Pencet tombol *clone* tos kitu "copy to clipboard".
 
-Buka terminal dan eksekusi perintah git berikut:
+Buka terminal atawa cmd, tos kitu ketikeun ieu:
 
 ```
-git clone "url yang telah Anda salin"
+git clone "url nu tos di copy tadi"
 ```
 
-yang mana "url yang telah Anda salin" (tanpa tanda petik) adalah url ke repositori ini. Lihat langkah sebelumnya untuk mendapatkan url.
+eta aya "url nu tos di copy" (ngan euweuh petikkan) teh link / URL ka repository ieu di profile didinya.
 
 <img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
-Contoh:
+Contohna:
 
 ```
-git clone https://github.com/username-anda/first-contributions.git
+git clone https://github.com/username-didinya/first-contributions.git
 ```
 
-`username-anda` adalah *username* Github Anda. Pada langkah ini, Anda menyalin konten dari repositori first-contributions di GitHub ke komputer anda.
+`username-didinya` nyaeta teh *username* Github didinya. Di langkah ieu teh, ayeuna urang rek mindahkeun repository ieu ka komputer didinya.
 
-## Membuat Cabang (Branch)
+## Ngajieun Cabang (Branch)
 
-Pindah ke direktori repositori yang baru saja Anda salin (jika belum ada di sana):
+Pindah ka direktori anu anyar keneh di jieun (mun can asup kaditu):
 
 ```
 cd first-contributions
 ```
 
-Buat cabang dengan perintah `git checkout`:
+Jieun cabang parentah `git checkout`:
 
 ```
 git checkout -b <add-nama-cabang-baru>
 ```
 
-Contoh:
+Contohna:
 
 ```
 git checkout -b add-alonzo-church
 ```
 
-(Nama cabang tidak perlu mengandung kata _add_ namun layak untuk ditambahkan karena tujuan dari cabang ini adalah menambahkan nama Anda ke dalam sebuah daftar.)
+(Nama cabangna teu kudu aya _add_ mun kudunamah ngangge, soalna urang teh ayeuna arek nambahkeun ngaran didinya di ditu, nambahkeun teh `add`.)
 
-## Buat Perubahan yang Diperlukan Lalu Commit Perubahan Tersebut
+## Jieun parubahan anu dibutuhkeun, tos kitu commit
 
-Buka berkas `Contributors.md` menggunakan teks editor, tambahkan nama Anda ke dalamnya lalu simpan berkas tersebut. Apabila Anda masuk ke direktori dan mengeksekusi perintah `git status` maka Anda dapat melihat bahwa telah ada perubahan. Tambahkan perubahan tersebut ke dalam cabang yang sebelumnya telah dibuat menggunakan perintah `git add`:
+Didinya buka `Contributors.md` ngangge teks editor, tambahkeun ngaran didinya tos kitu simpen. Lamun didinya ngajalankeun `git status` di direktori eta teh, eta bakal nunjukkeun bahwa didinya teh tos ngajieun parubahan. Tambahkeunn parubahan eta ka jero cabang anu tos dijieun ngangge parentah `git add`:
 
 ```
 git add Contributors.md
 ```
 
-Simpan perubahan tersebut menggunakan perintah `git commit`:
+Simpen parubahan nu didinya jieun ngangge `git commit`:
 
 ```
 git commit -m "Add <nama> to Contributors list"
 ```
 
-ganti `<nama>` dengan nama anda.
+ganti `<nama>` jeung ngaran didinya.
 
-## Dorong (Push) Perubahan ke GitHub
+## Dorong (Push) Parubahanana ka Github
 
-Dorong perubahan menggunakan perintah `git push`:
+Dorong parubahan ngangge parentah `git push`:
 
 ```
-git push origin <add-nama-cabang-baru>
+git push origin <add-ngaran-cabang-anyar>
 ```
 
-Ganti `<add-nama-cabang-baru>` dengan nama cabang yang sebelumnya telah dibuat.
+Ganti `<add-ngaran-cabang-anyar>` ku ngaran cabang nu tos dijieun tadi.
 
 ## Submit Perubahan untuk Diperiksa
 
-Jika Anda membuka repositori Anda di GitHub, maka akan ada tombol `Compare & pull request`. Tekan tombol tersebut.
+Mun didinya buka repositori didinya di GitHub, ayeuna bakal aya tombol `Compare & pull request`. Pencet tombol eta.
 
 <img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
-Kirimkan *Pull Request* (PR)
+Kirimkeun *Pull Request* (PR)
 
 <img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
-Segera Saya (pengelola) akan menggabungkan semua perubahan Anda ke cabang utama dari proyek ini. Anda akan mendapatkan email notifikasi setelah perubahan digabungkan.
+Kuring (pengelola) bakal nyatukeun parubahan didinya ka project ieu. Didinya bakal meunang email lamun parubahan tos asup kana repository utama.
 
-## Ke Mana Lagi Setelah dari Sini?
+## Kamana Deui Tos Tidieu??
 
-Selamat! Anda baru saja menyelesaikan *fork* -> klon -> ubah -> alur kerja *Pull Request* yang akan sering Anda temui sebagai kontributor!
+Selamat! Didinya kakarek ngaberesan *fork* -> klon -> robah -> jieun *Pull Request* nu ngke bakal sering mun dinya jadi `contributor`!
 
-Mari rayakan kontribusi Anda dan bagikan pengalaman tersebut bersama teman-teman dengan pergi ke [web app](https://roshanjossey.github.io/first-contributions/#social-share).
+Ayeuna rayakeun kontribusi awal didinya ku ngabuka [aplikasi web ieu](https://roshanjossey.github.io/first-contributions/#social-share).
 
-Anda dapat bergabung dengan tim slack kami jika membutuhkan bantuan atau memiliki pertanyaan. [Bergabung dengan tim slack](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
+Didinya tiasa gabung kana Slack urang-urang ku ngunjungan ieu. [Gabung jeung tim slack](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
-Sekarang, mari mulai berkontribusi di proyek lain. Kami sudah mengumpulkan daftar proyek dengan isu yang mudah dikerjakan sehingga Anda dapat segera memulai. Cek di [daftar proyek web app](https://roshanjossey.github.io/first-contributions/#project-list).
+Ayeuna, hayu urang kontribusi kana project lain. Urang tos nyiapkeun daftar repository anu boga issue nu gampang di bereskeun. Buka [daftar proyek web app](https://roshanjossey.github.io/first-contributions/#project-list).
 
-## [ Materi tambahan ](../additional-material/git_workflow_scenarios/additional-material.md)
+## [ Materi pangayaan ](../additional-material/git_workflow_scenarios/additional-material.md)
 
-## Tutorial Menggunakan Alat Lain
+## Tutorial Ngangge Alat Lain
 
 | <a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a> | <a href="../github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

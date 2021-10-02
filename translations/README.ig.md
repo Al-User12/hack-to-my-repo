@@ -3,18 +3,19 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
-# Kontribusi Pertama
+# Akpa Onyinye
 
-Sulit. Selalu sulit saat pertama kali Anda melakukan sesuatu. Terutama ketika Anda berkolaborasi, membuat kesalahan bukanlah hal yang nyaman. Kami ingin menyederhanakan cara kontributor *open-source* yang baru belajar dan berkontribusi untuk pertama kalinya.
+O siri ike. O siri ike mgbe mbụ ị mere ihe. Karịsịa mgbe ị na-emekọ ihe, ịmehie adịghị mma. Anyi choro ime ka uzo di iche-iche * ndi n’emeghe emepe * na-amuta ihe ma na enye onyinye nke mbu.
 
-Dengan membaca artikel dan menonton tutorial sebenarnya dapat membantu, tetapi apa yang lebih baik daripada langsung mempraktikan hal-hal tersebut? Proyek ini bertujuan untuk memberikan panduan dan menyederhanakan cara memberikan kontribusi pertama bagi pemula. Jika Anda ingin memberikan kontribusi untuk pertama kalinya, ikuti langkah-langkah di bawah ini.
+Gụ edemede na ikiri nkuzi nwere ike inyere gị aka, mana kedu ihe dị mma karịa ịbịaru nso na ịme ha ozugbo? Ebumnuche a bụ inye nduzi na ime ka onyinye oge mbụ dị mfe maka ndị mbido. Ọ bụrụ n’ịchọrọ inye onyinye maka oge izizi, biko soro usoro ndị a.
 
-#### _Jika Anda tidak nyaman dengan baris perintah, [di sini ada tutorial menggunakan GUI.](#tutorial-menggunakan-alat-lain)_
+#### _Ọ bụrụ na ịnọghị jụụ na akara iwu, [nke a bụ nkuzi iji GUI.] (# Tutorial-using-other-tools)_
 
-#### _Baca ini dalam [bahasa lain](translations/Translations.md)._
+#### _Guo nke a na [asụsụ ndị ọzọ](translations/Translations.md)._
 
 [🇮🇳](translations/Translations.md)
 [🇲🇲](translations/README.mm_unicode.md)
+[🇮🇩](translations/README.ig.md)
 [🇮🇩](translations/README.id.md)
 [🇫🇷](translations/README.fr.md)
 [🇪🇸](translations/README.es.md)
@@ -65,110 +66,110 @@ Dengan membaca artikel dan menonton tutorial sebenarnya dapat membantu, tetapi a
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
-Apabila belum memiliki git, [ install segera ](https://help.github.com/articles/set-up-git/).
+Ọ bụrụ na ịnweghị akpa, [ wụnye ngwa ngwa ](https://help.github.com/articles/set-up-git/).
 
-## Fork Repositori Ini
+## Ndụdụ ebe nchekwa a
 
-Fork repositori ini dengan cara menekan tombol *fork* yang ada di bagian kanan atas layar.
-Hal tersebut akan membuat salinan repositori ini di akun github anda.
+Fork ebe nchekwa site na ịpị bọtịnụ * ndụdụ * n'elu aka nri nke ihuenyo ahụ.
+Nke a ga - emepụta nnomi nke nchekwa a na akaụntụ github gị.
 
-## Klon Repositori
+## Mmepụta oyiri
 
 <img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
-Sekarang klon repositori ini ke komputer anda. Tekan tombol *clone* lalu tekan ikon "copy to clipboard".
+Ugbu a mmepụta oyiri a repository na kọmputa gị. Pịa bọtịnụ * mmepụta oyiri * wee pịa akara ngosi "kọpịlị".
 
-Buka terminal dan eksekusi perintah git berikut:
+Mepee ọnụ ma mee iwu iwu:
 
 ```
-git clone "url yang telah Anda salin"
+git clone "url nke i piomiri"
 ```
 
-yang mana "url yang telah Anda salin" (tanpa tanda petik) adalah url ke repositori ini. Lihat langkah sebelumnya untuk mendapatkan url.
+ebe "url i depụtaghachiri" (na-enweghị isi okwu) bụ url na ebe nchekwa a. Hụ usoro gara aga maka inweta url.
 
 <img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
-Contoh:
+ima atu:
 
 ```
 git clone https://github.com/username-anda/first-contributions.git
 ```
 
-`username-anda` adalah *username* Github Anda. Pada langkah ini, Anda menyalin konten dari repositori first-contributions di GitHub ke komputer anda.
+`aha njirimara gị bụ aha njirimara * gị Github. Na usoro a, ị na-edegharị ọdịnaya sitere na nchekwa ntinye nke mbụ na GitHub na kọmputa gị.
 
-## Membuat Cabang (Branch)
+## Ingmepụta (Alaka)
 
-Pindah ke direktori repositori yang baru saja Anda salin (jika belum ada di sana):
+Bugharịa gị na nchekwa na ndekọ na ị dị nnọọ depụtaghachiri (ma ọ bụrụ na ọ nọbeghị ebe ahụ):
 
 ```
 cd first-contributions
 ```
 
-Buat cabang dengan perintah `git checkout`:
+Mepụta alaka na iwu "git ndenye ọpụpụ":
 
 ```
-git checkout -b <add-nama-cabang-baru>
+git checkout -b <tinye-aha-ọhụrụ-alaka>
 ```
 
-Contoh:
+ima atu:
 
 ```
 git checkout -b add-alonzo-church
 ```
 
-(Nama cabang tidak perlu mengandung kata _add_ namun layak untuk ditambahkan karena tujuan dari cabang ini adalah menambahkan nama Anda ke dalam sebuah daftar.)
+(Aha ngalaba ahụ achọghị ịnwe okwu add mana ọ bara uru ịgbakwunye n'ihi na ebumnuche alaka a bụ itinye aha gị na ndepụta.)
 
-## Buat Perubahan yang Diperlukan Lalu Commit Perubahan Tersebut
+## Mee mgbanwe ndị dị mkpa wee mee mgbanwe ndị ahụ
 
-Buka berkas `Contributors.md` menggunakan teks editor, tambahkan nama Anda ke dalamnya lalu simpan berkas tersebut. Apabila Anda masuk ke direktori dan mengeksekusi perintah `git status` maka Anda dapat melihat bahwa telah ada perubahan. Tambahkan perubahan tersebut ke dalam cabang yang sebelumnya telah dibuat menggunakan perintah `git add`:
+Mepee faịlụ 'Contributor.md` iji ederede ederede, tinye aha gị na ya ma chekwaa faịlụ ahụ. Ọ bụrụ na ị gaa na ndekọ ma mebie iwu ahụ `` ọnọdụ ọnọdụ '' ị ga - ahụ na enwere mgbanwe. Tinye mgbanwe na ngalaba emere na mbụ site na iji iwu 'git add`:
 
 ```
 git add Contributors.md
 ```
 
-Simpan perubahan tersebut menggunakan perintah `git commit`:
+Chekwaa mgbanwe site na iji iwu `git commit`:
 
 ```
 git commit -m "Add <nama> to Contributors list"
 ```
 
-ganti `<nama>` dengan nama anda.
+dochie "<aha>" na aha gị.
 
-## Dorong (Push) Perubahan ke GitHub
+## Push Mgbanwe na GitHub
 
-Dorong perubahan menggunakan perintah `git push`:
+Gbanye mgbanwe site na iji iwu `git push`:
 
 ```
-git push origin <add-nama-cabang-baru>
+git push origin <tinye-aha-ọhụrụ-alaka>
 ```
 
-Ganti `<add-nama-cabang-baru>` dengan nama cabang yang sebelumnya telah dibuat.
+gafee `<tinye-aha-ọhụrụ-alaka>` ya na aha ngalaba ahuru na mbu.
 
-## Submit Perubahan untuk Diperiksa
+## Nyefee mgbanwe maka nyocha
 
-Jika Anda membuka repositori Anda di GitHub, maka akan ada tombol `Compare & pull request`. Tekan tombol tersebut.
+Ọ bụrụ na imeghe ebe nchekwa gị na GitHub, a ga-enwe bọtịnụ 'Tụlee & dọpụta'. Pịa bọtịnụ ahụ.
 
 <img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
-Kirimkan *Pull Request* (PR)
+zipu *Pull Request* (PR)
 
 <img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
-Segera Saya (pengelola) akan menggabungkan semua perubahan Anda ke cabang utama dari proyek ini. Anda akan mendapatkan email notifikasi setelah perubahan digabungkan.
+N'oge na-adịghị anya, m (njikwa) ga-ejikọ mgbanwe gị niile na ngalaba isi ọrụ a. Ga-enweta ọkwa email ozugbo agbanwere mgbanwe ndị ahụ.
 
-## Ke Mana Lagi Setelah dari Sini?
+## Ebee ka esi aga ebe a?
 
-Selamat! Anda baru saja menyelesaikan *fork* -> klon -> ubah -> alur kerja *Pull Request* yang akan sering Anda temui sebagai kontributor!
+Ndeewonu! Gụchara * ndụdụ * -> mmepụta oyiri -> gbanwee -> ọrụ arịrịọ * Wepu * nke ị ga - ezute ugboro ugboro dịka onye ntinye aka!
 
-Mari rayakan kontribusi Anda dan bagikan pengalaman tersebut bersama teman-teman dengan pergi ke [web app](https://roshanjossey.github.io/first-contributions/#social-share).
+Ka anyị mee onyinye gị ma soro ndị enyi kerịta ahụmịhe ahụ site na ịga na [ngwa weebụ] (https://roshanjossey.github.io/first-contributions/#social-share).
 
-Anda dapat bergabung dengan tim slack kami jika membutuhkan bantuan atau memiliki pertanyaan. [Bergabung dengan tim slack](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
+Nwere ike isonyere ndị slack team ma ọ bụrụ na ịchọrọ enyemaka ma ọ bụ nwee ajụjụ. [Jikọọ na slack otu](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
-Sekarang, mari mulai berkontribusi di proyek lain. Kami sudah mengumpulkan daftar proyek dengan isu yang mudah dikerjakan sehingga Anda dapat segera memulai. Cek di [daftar proyek web app](https://roshanjossey.github.io/first-contributions/#project-list).
+Ugbu a, ka anyị bido inye onyinye na ọrụ ndị ọzọ. Anyị achịkọtara ndepụta nke ọrụ nwere ọrụ dị mfe ka ị nwee ike ịmalite ozugbo. Lelee ya na [ndepụta ngwa ngwa ngwa weebụ] (https://roshanjossey.github.io/first-contributions/#project-list).
 
-## [ Materi tambahan ](../additional-material/git_workflow_scenarios/additional-material.md)
+## [Ihe ndi ozo ](../additional-material/git_workflow_scenarios/additional-material.md)
 
-## Tutorial Menggunakan Alat Lain
+## Nkuzi Iji Ngwá Ọrụ Ndị Ọzọ
 
 | <a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a> | <a href="../github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
