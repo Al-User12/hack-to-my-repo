@@ -1,16 +1,16 @@
 # Contributors
-- [Al Fikri KM] (https://github.com/Al-User12)
--[Audie Mendaros](https://github.com/taroken6)
+- [Al Fikri KM](https://github.com/Al-User12)
+- [Audie Mendaros](https://github.com/taroken6)
 - [Will Guo]
--[Tommy Deliso](https://github.com/tdeliso)
--[Mandeep Singh](https://github.com/deepsingh132)
--[WeLostTheNight](https://github.com/574469831)
--[Ashutosh Dixit](https://github.com/Di-ashX)
--[jaanP1]
--[Animish Pande](https://github.com/animishpande)
+- [Tommy Deliso](https://github.com/tdeliso)
+- [Mandeep Singh](https://github.com/deepsingh132)
+- [WeLostTheNight](https://github.com/574469831)
+- [Ashutosh Dixit](https://github.com/Di-ashX)
+- [jaanP1]
+- [Animish Pande](https://github.com/animishpande)
 - [Crystal Wernicke] (https://github.com/CrystalWernicke)
 - [Rohan Poojary](https://github.com/RohanPoojary1107)
--[Ankita Singhal](https://github.com/sankita11)
+- [Ankita Singhal](https://github.com/sankita11)
 -[sai aka]
 -[Elizabeth Wiggins]
 - [Harsh Soni] (https://github.com/harsh-dynasty)
