@@ -4993,4 +4993,3 @@ chaitrali
 - [Wawan Winarto] (https://github.com/abdiwawan)
 - [Muhaecal D. Khatami](https://github.com/mhaecal)
 - [Jeffry Gunawan](https://github.com/jeffrywu28)i
-- [elbasrie](https://github.com/elbasrie)
