@@ -14,6 +14,7 @@
 - [Harsh Soni] (https://github.com/harsh-dynasty)
 - [Metro-95] (https://github.com/metro-95/first-contributions)
 - [Wahyu Hidayat] (https://github.com/dedsec11)
+- [Gede Dyava Savitra] (https://github.com/dyavas21)
 - [SHUBHAM RAI]
 - [UMAR MASUD]
 - [jarvis3799]
