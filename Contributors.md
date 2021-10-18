@@ -4985,3 +4985,4 @@
 - [Muhaecal D. Khatami](https://github.com/mhaecal)
 - [Jeffry Gunawan](https://github.com/jeffrywu28)i
 - [elbasrie](https://github.com/elbasrie)
+- [Akmal Fauzi](https://github.com/akmalfauzi)
