@@ -11,6 +11,7 @@
 - [Defri](https://github.com/yellteam)
 - [Tommy Deliso](https://github.com/tdeliso)
 - [Fhexl](https://github.com/wuvyu)
+- [CR](https://github.com/NulisKode)
 - [Mandeep Singh](https://github.com/deepsingh132)
 - [WeLostTheNight](https://github.com/574469831)
 - [Ashutosh Dixit](https://github.com/Di-ashX)
