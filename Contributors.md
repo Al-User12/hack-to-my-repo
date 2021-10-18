@@ -8,6 +8,7 @@
 - [rhythm 1337](https://github.com/rhytm1377)
 - [Reddawn18](https://github.com/reddawn18)
 - [Aios-Store](https://github.com/Aios-Store)
+- [Defri](https://github.com/yellteam)
 - [Tommy Deliso](https://github.com/tdeliso)
 - [Fhexl](https://github.com/wuvyu)
 - [Mandeep Singh](https://github.com/deepsingh132)
