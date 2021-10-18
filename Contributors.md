@@ -7,6 +7,7 @@
 - [Reddawn18](https://github.com/reddawn18)
 - [Aios-Store](https://github.com/Aios-Store)
 - [Tommy Deliso](https://github.com/tdeliso)
+- [Fhexl](https://github.com/wuvyu)
 - [Mandeep Singh](https://github.com/deepsingh132)
 - [WeLostTheNight](https://github.com/574469831)
 - [Ashutosh Dixit](https://github.com/Di-ashX)
