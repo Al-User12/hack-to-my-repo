@@ -4,6 +4,7 @@
 - [Audie Mendaros](https://github.com/taroken6)
 - [Anugrah](https://github.com/anugerah77)
 - [Hanungpr](https://github.com/hanungpr)
+- [Aryormdhnn](https://github.com/aryormdhnn)
 - [Reddawn18](https://github.com/reddawn18)
 - [Aios-Store](https://github.com/Aios-Store)
 - [Tommy Deliso](https://github.com/tdeliso)
