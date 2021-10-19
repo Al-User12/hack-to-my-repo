@@ -6,6 +6,7 @@
 - [Hanungpr](https://github.com/hanungpr)
 - [Ananta](https://github.com/Anantamvan)
 - [Andi Alfian](https://github.com/anddfian)
+- [Adinath Joshi](https://github.com/joshiadinath0)
 - [Farhan N](https://github.com/cianjursec)
 - [Aryormdhnn](https://github.com/aryormdhnn)
 - [rhythm 1337](https://github.com/rhytm1377)
