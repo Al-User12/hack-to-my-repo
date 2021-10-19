@@ -8,6 +8,7 @@
 - [Andi Alfian](https://github.com/anddfian)
 - [Adinath Joshi](https://github.com/joshiadinath0)
 - [Farhan N](https://github.com/cianjursec)
+- [Cyriak](https://github.com/cyriak1337)
 - [Aryormdhnn](https://github.com/aryormdhnn)
 - [Ritsros12](https://github.com/ritsros12)
 - [rhythm 1337](https://github.com/rhytm1377)
