@@ -8,6 +8,7 @@
 - [Andi Alfian](https://github.com/anddfian)
 - [Farhan N](https://github.com/cianjursec)
 - [Aryormdhnn](https://github.com/aryormdhnn)
+- [Ritsros12](https://github.com/ritsros12)
 - [rhythm 1337](https://github.com/rhytm1377)
 - [Reddawn18](https://github.com/reddawn18)
 - [Aios-Store](https://github.com/Aios-Store)
