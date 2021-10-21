@@ -23,6 +23,7 @@
 - [Fhexl](https://github.com/wuvyu)
 - [CR](https://github.com/NulisKode)
 - [Mandeep Singh](https://github.com/deepsingh132)
+- [Daffawidya](https://github.com/Daffawidya)
 - [WeLostTheNight](https://github.com/574469831)
 - [Ashutosh Dixit](https://github.com/Di-ashX)
 - [jaanP1]
