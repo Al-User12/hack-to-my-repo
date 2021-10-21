@@ -10,6 +10,7 @@
 - [Farhan N](https://github.com/cianjursec)
 - [Habicrb](https://github.com/habicrb)
 - [Didin90](https://github.com/didin90)
+- [juliovanbodaz](https://github.com/Juliovanbondaz)
 - [Cyriak](https://github.com/cyriak1337)
 - [Aryormdhnn](https://github.com/aryormdhnn)
 - [Ritsros12](https://github.com/ritsros12)
