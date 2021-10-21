@@ -14,6 +14,7 @@
 - [Aryormdhnn](https://github.com/aryormdhnn)
 - [Ritsros12](https://github.com/ritsros12)
 - [ArryAF](https://github.com/ArryAF)
+- [yudhann](https://github.com/Yudhann)
 - [Bims26](https://github.com/bims26)
 - [rhythm 1337](https://github.com/rhytm1377)
 - [Reddawn18](https://github.com/reddawn18)
