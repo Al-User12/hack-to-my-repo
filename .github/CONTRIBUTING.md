@@ -431,6 +431,9 @@ If you're making changes to a translation, please request a review from our prev
         <td>
             <a href="https://github.com/jcer">jcer</a>
         </td>
+         <td>
+            <a href="https://github.com/evansusu">evansusu</a>
+        </td>
         <td>
             <a href="https://github.com/7013145">7013145</a>
         </td>
@@ -448,5 +451,3 @@ If you're making changes to a translation, please request a review from our prev
         </td>
     </tr>
  </table>
-    
-
