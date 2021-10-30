@@ -3,6 +3,7 @@
 - [Al Fikri](https://github.com/Al-User12)
 - [violet](https://github.com/Violet-Nanodesu)
 - [Audie Mendaros](https://github.com/taroken6)
+- [Agus Ar] (https://github.com/TenxRyu)
 - [Anugrah](https://github.com/anugerah77)
 - [Hanungpr](https://github.com/hanungpr)
 - [Ananta](https://github.com/Anantamvan)
