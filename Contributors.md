@@ -1,6 +1,7 @@
 # Contributors
 
 - [Al Fikri](https://github.com/Al-User12)
+- [violet](https://github.com/Violet-Nanodesu)
 - [Audie Mendaros](https://github.com/taroken6)
 - [Anugrah](https://github.com/anugerah77)
 - [Hanungpr](https://github.com/hanungpr)
