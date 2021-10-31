@@ -100,6 +100,7 @@
 - [Onkar Sharma] (https://github.com/KSHAMIN) -[Prajakta Mane](https://github.com/maneprajakta)
 - [Philip Mitchell Otieno](https://github.com/philipotieno)
 - bidlocode
+- [pikriiii]
 - [Vinay Manala](https://github.com/VinayManala) -[Shivani Singh](https://github.com/shiv-ani-singh)
 - [Berkay Kan](https://github.com/brkykan)
 - [KelvinChan2406](https://github.com/kelvinchan2406)
