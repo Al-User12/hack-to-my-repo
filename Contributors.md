@@ -48,6 +48,7 @@
 - [UMAR MASUD]
 - [jarvis3799]
 - Omar Navarro
+- [byxsw]
 - [Anderson Cardoso](https://github.com/anderson-ca)
 - Archana Dhaker -[Tanweer Ali](https://github.com/tanweeralii)
 - [Mohammed Bajuaifer](https://github.com/MohammedBajuaifer)
