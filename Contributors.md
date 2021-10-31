@@ -1,6 +1,7 @@
 # Contributors
 
 - [Al Fikri](https://github.com/Al-User12)
+- [yang namanya agus ar ganteng]
 - [violet sama](https://github.com/Violet-Nanodesu)
 - [Rimuwu](https://github.com/tempest-ruler)
 - [Audie Mendaros](https://github.com/taroken6)
