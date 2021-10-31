@@ -1,7 +1,8 @@
 # Contributors
 
 - [Al Fikri](https://github.com/Al-User12)
-- [violet](https://github.com/Violet-Nanodesu)
+- [violet sama](https://github.com/Violet-Nanodesu)
+- [Rimuwu](https://github.com/tempest-ruler)
 - [Audie Mendaros](https://github.com/taroken6)
 - [Agus Ar] (https://github.com/TenxRyu)
 - [Anugrah](https://github.com/anugerah77)
