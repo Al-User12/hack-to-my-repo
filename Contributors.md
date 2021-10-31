@@ -235,6 +235,7 @@
 - [Caden Gerard] (https://github.com/caden3ds)
 - [Rajeev Koushik]
 - [KK]
+- [kaijux]
 - [Taijasi Kaveri](https://github.com/Taijasi-Kaveri)
 - [Aarushi Gupta]
 - [Helen Cunningham]
