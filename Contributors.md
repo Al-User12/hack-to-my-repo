@@ -5018,7 +5018,7 @@
 - [Wawan Winarto] (https://github.com/abdiwawan)
 - [Muhaecal D. Khatami](https://github.com/mhaecal)
 - [Jeffry Gunawan](https://github.com/jeffrywu28)i
-- [elbasrie](https://github.com/elbasrie)
+- [Hasan Basri](https://github.com/elbasrie)
 - [Akmal Fauzi](https://github.com/akmalfauzi)
 - [Rendi Julianto](https://github.com/rendijulianto)
 - [Muhammad Ibrahim](https://github.com/Mibrahimwali) 
