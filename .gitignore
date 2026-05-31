@@ -8,5 +8,11 @@ venv/
 # Tooling artifacts
 Contributors.md.bak
 
+# Generated docs (CI artifacts — not tracked in git)
+docs/contributor_badges.json
+docs/contributor-badges.md
+docs/country-onboarding-heatmap.html
+docs/country-onboarding-heatmap.json
+
 # OS
 .DS_Store
