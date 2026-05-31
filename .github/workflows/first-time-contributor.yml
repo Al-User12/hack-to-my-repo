@@ -1,0 +1,40 @@
+name: Welcome First-Time Contributors
+
+on:
+  pull_request_target:
+    types: [opened]
+
+permissions:
+  pull-requests: write
+  issues: write
+
+jobs:
+  welcome:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Welcome contributor
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const { owner, repo } = context.repo;
+            const pr = context.payload.pull_request;
+            const author = pr.user.login;
+
+            const { data: pulls } = await github.rest.pulls.list({
+              owner,
+              repo,
+              state: 'all',
+              per_page: 100
+            });
+
+            const previous = pulls.filter((item) => item.user.login === author && item.number !== pr.number);
+            if (previous.length > 0) {
+              return;
+            }
+
+            await github.rest.issues.createComment({
+              owner,
+              repo,
+              issue_number: pr.number,
+              body: `Hi @${author}, welcome to **hack-to-my-repo**! 🎉\n\nThanks for opening your first pull request here. A maintainer will review it soon. While waiting, please make sure the PR template checklist is complete and the change is focused on one thing.`
+            });

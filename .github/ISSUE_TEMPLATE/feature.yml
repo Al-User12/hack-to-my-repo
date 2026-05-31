@@ -1,0 +1,31 @@
+name: 💡 Improvement / Feature
+description: Suggest an improvement to the docs, tutorials, or workflow
+title: "[Improvement]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping make this project better!
+  - type: textarea
+    id: idea
+    attributes:
+      label: What's your idea?
+      description: Describe the improvement or new content you'd like to see.
+      placeholder: "Add a tutorial section for GitHub CLI..."
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why is this useful?
+      description: How does this help beginners or contributors?
+    validations:
+      required: false
+  - type: checkboxes
+    id: willing
+    attributes:
+      label: Would you like to work on it?
+      options:
+        - label: I'd like to implement this myself
+          required: false

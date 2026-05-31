@@ -1,0 +1,39 @@
+name: 🐞 Bug Report
+description: Report a broken link, typo, or something that doesn't work
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report a bug! Please fill out the fields below.
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Describe the bug clearly. What did you see?
+      placeholder: "The link to X in the README returns a 404..."
+    validations:
+      required: true
+  - type: textarea
+    id: where
+    attributes:
+      label: Where is it?
+      description: Which file or page has the problem? Paste the path or URL.
+      placeholder: "translations/README.id.md, line 42"
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect?
+      description: What should happen instead?
+    validations:
+      required: false
+  - type: checkboxes
+    id: willing
+    attributes:
+      label: Would you like to fix it?
+      options:
+        - label: I'd like to work on this myself
+          required: false
