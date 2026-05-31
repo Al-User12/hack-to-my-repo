@@ -11,14 +11,43 @@
 
 It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
 
+## Why this fork exists
+
+Most first-contribution repositories stop at "add your name to a list". This fork keeps that beginner-friendly workflow, then adds a real maintenance layer around it:
+
+- a contributor-list validator for `Contributors.md`,
+- an auto-fixer for common beginner markdown mistakes,
+- a contributor quality report generated from the actual repository data,
+- CI gates that prevent new pull requests from increasing formatting debt.
+
+That makes the repo useful as both:
+
+1. a safe onboarding lab for first-time contributors, and
+2. a maintenance sandbox for learning how high-volume community repositories stay clean.
+
 ## Project Health
 
 - ✅ Contribution templates and PR template are enabled.
 - ✅ Automated weekly link checks are enabled via GitHub Actions.
 - ✅ First-time contributor welcome automation is enabled.
+- ✅ Contributor quality gate is enabled for `Contributors.md`.
+- ✅ Contributor quality report is generated in [`docs/contributor-quality-report.md`](docs/contributor-quality-report.md).
 - ✅ Security policy and updated contribution guide are in place.
 
 If you want to help maintain this project, open an issue with the title prefix: `Maintainer:`.
+
+## Maintainer tools
+
+Run the same checks locally before opening a pull request:
+
+```bash
+python tools/validate_contributors.py --file Contributors.md --max-errors 31
+python tools/fix_contributors.py --apply
+python tools/contributor_insights.py
+python -m unittest discover -s tools -p "test_*.py" -v
+```
+
+The `--max-errors 31` value is the current historical-debt baseline. The goal is to reduce it over time, not let new PRs increase it.
 
 
 Reading articles & watching tutorials can help, but what's better than actually doing the stuff in a practice environment? This project aims at providing guidance & simplifying the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.

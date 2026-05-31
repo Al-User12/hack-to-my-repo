@@ -1,0 +1,46 @@
+name: Contributors Quality Gate
+
+on:
+  pull_request:
+    paths:
+      - "Contributors.md"
+      - "tools/**"
+      - ".github/workflows/contributors-quality.yml"
+  push:
+    branches: [master]
+    paths:
+      - "Contributors.md"
+      - "tools/**"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run unit tests
+        run: python -m unittest discover -s tools -p "test_*.py" -v
+
+      - name: Validate Contributors.md (regression gate)
+        run: |
+          # Baseline of pre-existing debt. New PRs must not exceed it.
+          # Lower this number as historical entries get cleaned up.
+          python tools/validate_contributors.py --file Contributors.md --max-errors 31
+
+      - name: Generate quality report
+        run: python tools/contributor_insights.py
+
+      - name: Upload quality report
+        uses: actions/upload-artifact@v4
+        with:
+          name: contributor-quality-report
+          path: docs/contributor-quality-report.md
