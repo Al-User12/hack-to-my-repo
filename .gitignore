@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Tooling artifacts
+Contributors.md.bak
+
+# OS
+.DS_Store
