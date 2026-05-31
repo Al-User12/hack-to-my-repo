@@ -32,6 +32,9 @@ That makes the repo useful as both:
 - ✅ First-time contributor welcome automation is enabled.
 - ✅ Contributor quality gate is enabled for `Contributors.md`.
 - ✅ Contributor quality report is generated in [`docs/contributor-quality-report.md`](docs/contributor-quality-report.md).
+- ✅ PR quality bot auto-comments on every PR that touches `Contributors.md`.
+- ✅ Contributor badges classify each entry as clean-link / needs-fix / name-only.
+- ✅ Country onboarding heatmap tracks translation coverage across 55 languages.
 - ✅ Security policy and updated contribution guide are in place.
 
 If you want to help maintain this project, open an issue with the title prefix: `Maintainer:`.
@@ -44,6 +47,8 @@ Run the same checks locally before opening a pull request:
 python tools/validate_contributors.py --file Contributors.md --max-errors 31
 python tools/fix_contributors.py --apply
 python tools/contributor_insights.py
+python tools/generate_contributor_badges.py
+python tools/generate_country_heatmap.py
 python -m unittest discover -s tools -p "test_*.py" -v
 ```
 

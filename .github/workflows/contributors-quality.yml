@@ -39,8 +39,19 @@ jobs:
       - name: Generate quality report
         run: python tools/contributor_insights.py
 
+      - name: Generate contributor badges
+        run: python tools/generate_contributor_badges.py
+
+      - name: Generate country heatmap
+        run: python tools/generate_country_heatmap.py
+
       - name: Upload quality report
         uses: actions/upload-artifact@v4
         with:
           name: contributor-quality-report
-          path: docs/contributor-quality-report.md
+          path: |
+            docs/contributor-quality-report.md
+            docs/contributor-badges.md
+            docs/contributor_badges.json
+            docs/country-onboarding-heatmap.html
+            docs/country-onboarding-heatmap.json
