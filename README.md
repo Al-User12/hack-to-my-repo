@@ -5,7 +5,21 @@
 
 # First Contributions
 
+> Maintained by [@Al-User12](https://github.com/Al-User12) with support from [@alfikri-dev](https://github.com/alfikri-dev).
+>
+> This repository is actively maintained as a safe practice ground for first-time open source contributors and Hacktoberfest participants.
+
 It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
+
+## Project Health
+
+- ✅ Contribution templates and PR template are enabled.
+- ✅ Automated weekly link checks are enabled via GitHub Actions.
+- ✅ First-time contributor welcome automation is enabled.
+- ✅ Security policy and updated contribution guide are in place.
+
+If you want to help maintain this project, open an issue with the title prefix: `Maintainer:`.
+
 
 Reading articles & watching tutorials can help, but what's better than actually doing the stuff in a practice environment? This project aims at providing guidance & simplifying the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
 

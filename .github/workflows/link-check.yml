@@ -1,0 +1,42 @@
+name: Check Links
+
+on:
+  push:
+    branches: [master, main]
+  pull_request:
+    branches: [master, main]
+  schedule:
+    # Run weekly on Monday at 08:00 UTC
+    - cron: "0 8 * * 1"
+
+jobs:
+  link-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Restore lychee cache
+        uses: actions/cache@v4
+        with:
+          path: .lycheecache
+          key: cache-lychee-${{ github.sha }}
+          restore-keys: cache-lychee-
+
+      - name: Link Checker
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --verbose
+            --no-progress
+            --cache
+            --max-cache-age 1d
+            --exclude-path translations
+            --exclude "^https://avatars"
+            --exclude "^https://cdn.staticaly.com"
+            --exclude "^https://desktop.github.com"
+            --exclude "^https://upload.wikimedia.org"
+            --exclude "^https://firstcontributions.github.io"
+            --exclude "^https://join.slack.com"
+            --exclude "firstcontributions/first-contributions"
+            "**/*.md"
+          fail: false
